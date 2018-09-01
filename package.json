@@ -1,5 +1,5 @@
 {
-  "name": "react-native-credit-card-input",
+  "name": "react-native-fiddle-cc-input",
   "version": "0.4.1",
   "description": "React native credit card input component",
   "main": "index.js",
@@ -26,7 +26,7 @@
     "react-component",
     "react-native-component"
   ],
-  "author": "sbycrosz",
+  "author": "cauldyclark15",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sbycrosz/react-native-credit-card-input/issues"
